@@ -2,7 +2,7 @@
   "display": {
     "background": "trailandtales_delight:textures/screen/advancement_background.png",
     "icon": {
-      "item": "trailandtales_delight:pottery_cooking_pot"
+      "id": "trailandtales_delight:pottery_cooking_pot"
     },
     "title": {
       "translate": "advancements.tat_delight.title"

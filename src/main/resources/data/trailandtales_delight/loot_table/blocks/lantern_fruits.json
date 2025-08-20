@@ -52,7 +52,7 @@
           "condition": "minecraft:block_state_property",
           "block": "trailandtales_delight:lantern_fruits",
           "properties": {
-            "ropelogged": false
+            "ropelogged": "false"
           }
         }
       ]
